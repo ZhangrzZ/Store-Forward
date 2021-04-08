@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Middleware:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Middleware_jar</output-path>
+    <root id="archive" name="Middleware.jar">
+      <element id="module-output" name="Store-Forward" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/apache/activemq/activemq-all/5.16.1/activemq-all-5.16.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
